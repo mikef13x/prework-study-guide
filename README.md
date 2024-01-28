@@ -16,5 +16,5 @@ notes on HTML, CSS, and JavaScript. It gives an idea into how the code interacts
 N/A
 
 ## License
-   
+
 Please refer to the LICENSE in the repo.
